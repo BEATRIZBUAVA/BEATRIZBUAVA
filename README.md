@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Portfolio-visit-green?style=plastic"/>
   </a>
   <a href="https://github.com/BEATRIZBUAVA/bakery">
-    <img src="https://img.shields.io/badge/Simulador_de_Corrida-Node.js-blue?style=plastic"/>
+    <img src="https://img.shields.io/badge/Landing-page-confeitaria-blue?style=plastic"/>
   </a>
  
 </p>
