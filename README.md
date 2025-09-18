@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/75ATTdRsYJjS8/giphy.gif" width="25%" align="right" />
   
   <!-- Typing effect SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=140&lines=Olá+olá!;Eu+sou+Beatriz,+desenvolvedora+em+formação" width="70%" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&lines=Olá!;Eu+sou+Beatriz,+desenvolvedora+em+formação" />
 </div>
 
 ---
