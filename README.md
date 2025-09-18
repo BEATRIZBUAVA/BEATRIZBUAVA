@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/75ATTdRsYJjS8/giphy.gif" width="200px" />
 
-   <br>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B5F05&repeat=false&width=435&lines=Ol%C3%A1!+Eu+sou+a+Beatriz%2C+dev+Front-End)](https://git.io/typing-svg)
 </div>
 
